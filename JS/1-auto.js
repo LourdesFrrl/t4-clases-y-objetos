@@ -7,18 +7,18 @@ const auto = {
     encender: function() {
       if (!this.encendido) {
         this.encendido = true;
-        console.log("Auto encendido");
+       alert("Auto encendido");
       } else {
-        console.log("El auto ya está encendido");
+       alert("El auto ya está encendido");
       }
     },
   
     apagar: function() {
       if (this.encendido) {
         this.encendido = false;
-        console.log("El auto se apagó");
+       alert("El auto se apagó");
       } else {
-        console.log("El auto ya está apagado");
+       alert("El auto ya está apagado");
       }
     }
   };
