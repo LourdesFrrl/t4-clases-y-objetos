@@ -4,7 +4,7 @@ Este proyecto fue desarrollado como parte del aprendizaje de **JavaScript**, enf
 
 ## Contenido
 
-A continuación se detallan los archivos y sus respectivas funcionalidades:
+A continuación se detallan los archivos:
 
 ```
 📁 T4-OBJETOS-JS
